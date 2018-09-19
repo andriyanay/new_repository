@@ -1,2 +1,2 @@
 # new_repository
-first repository
+Hi, this is my first repository
